@@ -32,8 +32,7 @@
      */
     float Multiplication(float operand_1,float operand_2){
         return(operand_1 * operand_2);
-    }
-    /**
+
      * The function division takes two float operands and returns their division result.
      * 
      * @param operand_1 The first operand of the division operation.
